@@ -1,7 +1,7 @@
 # TeensyVCU
 Design of a VCU for Teensy 4.1 board equipped with 3x CAN bus
 
-https://github.com/arber333/TeensyVCU/blob/main/Screenshot%202026-02-03%20201656.png
+![alt text](https://github.com/arber333/TeensyVCU/blob/main/Screenshot%202026-02-03%20201656.png)
 
 After i succesfully finished Megane conversion i decided in the future i may need the same VCU type with more input/outputs. There is question to control AC signal to drive AC compressor without internal commands where there may be interlocks that are not bridged and are preventing AC to run because engine is now missing.
 For my first VCU i use VCU from design of Anthony Bezencon, username aot93 on Openinverter forum https://openinverter.org/forum/viewtopic.php?t=2167. It works great until now even though i find it a little flimsy in form and there is no ground plane to shield against EM signals. Not that this works gainst VCU in operation…
