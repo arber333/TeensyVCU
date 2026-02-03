@@ -20,3 +20,5 @@ Code stil works from the same repository
 https://github.com/arber333/Mini-E-VCU
 
 After i soldered the board and added connector i tested it with existing harness on my Megane and Mazda….
+In version V2.2 i corrected some GND error connections and tested it with all 3 CAN bus modules populated.
+This version allows the use of pullup resistors on the ULN2003 chip for use with PWM signals.
